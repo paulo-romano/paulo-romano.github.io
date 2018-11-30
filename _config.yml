@@ -25,6 +25,10 @@ twitter_username: paulo_romano
 github_username:  paulo-romano
 linkedin_username: paulo-romano
 
+# Disqus Comments
+disqus:
+    shortname: pauloromano
+
 # Build settings
 markdown: kramdown
 theme: minima
